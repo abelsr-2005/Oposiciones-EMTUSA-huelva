@@ -31,7 +31,6 @@ Pregunta de examen garantizada: Un Salto de Página se limita a pasar el texto a
 * **Barra de herramientas de acceso rápido:** Situada tradicionalmente en la esquina superior izquierda, permite al usuario anclar comandos frecuentes (Guardar, Deshacer) para que estén siempre accesibles.
 
 ** Vistas del documento:** 
-
     * Diseño de impresión: Vista predeterminada; renderiza el documento tal y como se imprimirá físicamente.
     * Esquema: Muestra el documento como un árbol jerárquico basado en los Estilos de Título. Herramienta definitiva para mover capítulos enteros.
     * Borrador: Oculta encabezados, pies de página y márgenes para maximizar el rendimiento al editar grandes volúmenes de texto plano.
