@@ -1,4 +1,4 @@
-# :flag_es: Constitución Española
+# :es: Constitución Española
 
 # 📚 Índice
 
