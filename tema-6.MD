@@ -26,8 +26,11 @@
 * **Informes:** Objetos diseñados específicamente para la presentación, resumen y exportación/impresión de la información. A diferencia de los formularios, no permiten la edición de datos.
 
 ## 6.5. Relaciones e Integridad Referencial
-* **Relaciones:** Conexión lógica entre dos tablas mediante un campo común (normalmente una Clave Principal en una tabla y una Clave Foránea en otra).
-* **Integridad Referencial:** Sistema de reglas que asegura que las relaciones entre registros permanezcan constantes y no se borren o cambien datos accidentalmente, manteniendo la coherencia de la base de datos.
+* **Relaciones:** Vinculación entre tablas mediante campos comunes (Clave Principal en tabla origen y Clave Foránea en tabla destino).
+* **Integridad Referencial:** Es la regla de oro de las bases de datos. Garantiza la coherencia de los datos al impedir:
+    1. Eliminar un registro de una tabla primaria si tiene registros relacionados en otra tabla.
+    2. Cambiar un valor de clave principal si existen registros que dependen de él.
+    3. Introducir datos en una clave foránea que no existan previamente en la clave principal de la tabla relacionada.
 
 ### ⚠️ Alerta de Trampa (Lógica de Almacenamiento)
 Pregunta clásica de examen: ¿En qué objeto se guardan los datos? Los datos **solo se almacenan en las Tablas**. Las consultas, formularios e informes son meras herramientas para manipular o visualizar dicha información, pero no contienen datos per se.
