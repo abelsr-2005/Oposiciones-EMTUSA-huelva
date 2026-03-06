@@ -28,9 +28,10 @@ Pregunta de examen garantizada: Un Salto de Página se limita a pasar el texto a
     * Trampa habitual (Intercalar): Si imprimes 3 copias de un documento de 3 páginas, la opción "Intercalar" imprime bloques ordenados (1-2-3, 1-2-3, 1-2-3). La opción "Sin intercalar" imprime por lotes de página (1-1-1, 2-2-2, 3-3-3).
 
 ## 4.4. Personalización del entorno de trabajo
+
 * **Barra de herramientas de acceso rápido:** Situada tradicionalmente en la esquina superior izquierda, permite al usuario anclar comandos frecuentes (Guardar, Deshacer) para que estén siempre accesibles.
 
-** Vistas del documento:** 
-    * Diseño de impresión: Vista predeterminada; renderiza el documento tal y como se imprimirá físicamente.
-    * Esquema: Muestra el documento como un árbol jerárquico basado en los Estilos de Título. Herramienta definitiva para mover capítulos enteros.
-    * Borrador: Oculta encabezados, pies de página y márgenes para maximizar el rendimiento al editar grandes volúmenes de texto plano.
+* **Vistas del documento:**
+  * **Diseño de impresión:** Vista predeterminada; renderiza el documento tal y como se imprimirá físicamente.
+  * **Esquema:** Muestra el documento como un árbol jerárquico basado en los Estilos de Título. Herramienta definitiva para mover capítulos enteros.
+  * **Borrador:** Oculta encabezados, pies de página y márgenes para maximizar el rendimiento al editar grandes volúmenes de texto plano.
