@@ -6,16 +6,6 @@
 
 ---
 
-## 📑 Índice
-
-* [1. Instalación y conexiones remotas](#1-instalación-configuración-y-conexiones-remotas)
-* [2. Usuarios, roles y permisos](#2-administración-de-usuarios-roles-y-permisos)
-* [3. Diseño y gestión de objetos](#3-diseño-y-gestión-de-objetos)
-* [4. Procedimientos, triggers y optimización](#4-procedimientos-triggers-y-optimización)
-* [5. Integración y automatización (SSIS)](#5-integración-y-automatización-ssis)
-
----
-
 # 1. Instalación, Configuración y Conexiones Remotas
 
 La instalación correcta del motor de base de datos es fundamental para garantizar el **rendimiento, la seguridad y la accesibilidad** de las aplicaciones.
