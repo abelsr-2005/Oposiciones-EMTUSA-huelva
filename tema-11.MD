@@ -6,16 +6,6 @@
 
 ---
 
-## 📑 Índice
-
-* [1. Topologías de red](#1-topologías-de-red)
-* [2. Direccionamiento IPv4 e IPv6](#2-direccionamiento-ipv4-e-ipv6)
-* [3. VLAN](#3-vlan-virtual-local-area-network)
-* [4. DHCP](#4-dhcp-dynamic-host-configuration-protocol)
-* [5. Administración y diagnóstico de red](#5-administración-y-diagnóstico-de-red)
-
----
-
 ## 1. Topologías de Red
 
 La **topología de red** define la forma en que los dispositivos están conectados dentro de una red, tanto a nivel **físico** como **lógico**.
