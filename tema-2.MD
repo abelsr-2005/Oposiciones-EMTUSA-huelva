@@ -37,4 +37,4 @@ Pregunta clásica para administradores de sistemas: Si haces **clic derecho** so
 * Funciones clave: Realizar búsquedas locales (archivos) y en internet, configurar recordatorios, gestionar el calendario y abrir aplicaciones.
 
 ### ⚠️ Alerta de Trampa (Cortana)
-[cite_start]Aunque Microsoft ha ido retirando Cortana en favor de Copilot en las versiones más recientes de Windows 11, el temario la incluye explícitamente[cite: 10]. A nivel de test, debes identificarla siempre como el "asistente virtual" o "asistente de voz" originario del ecosistema Windows 10.
+[cite_start] Aunque Microsoft ha ido retirando Cortana en favor de Copilot en las versiones más recientes de Windows 11, el temario la incluye explícitamente[cite: 10]. A nivel de test, debes identificarla siempre como el "asistente virtual" o "asistente de voz" originario del ecosistema Windows 10.
