@@ -1,56 +1,222 @@
-# Tema 10. Active Directory: Estructura, Roles FSMO, OU, Replicación y GPO
+# Tema 10 — Virtualización de Servidores
 
-Active Directory Domain Services (AD DS) es el servicio de directorio centralizado para la gestión de identidades y recursos en la infraestructura corporativa de EMTUSA. Se basa en un modelo multimaestro con excepciones específicas para garantizar la integridad de la base de datos.
+### Infraestructura virtual y alta disponibilidad
 
----
-
-## 10.1. Estructura de Active Directory
-La organización de AD se divide en componentes lógicos y físicos para facilitar la escalabilidad y administración.
-
-### 10.1.1. Componentes Lógicos
-* **Bosque (Forest):** El contenedor de seguridad de nivel superior que agrupa uno o más árboles de dominios.
-* **Dominio:** Unidad administrativa fundamental que comparte una base de datos de directorio común.
-* **Unidad Organizativa (OU):** Contenedor lógico utilizado para organizar objetos (usuarios, equipos, grupos) dentro de un dominio, facilitar la delegación de control y vincular GPOs.
-* **Objetos:** Instancias individuales como usuarios, grupos, equipos o impresoras definidos en el esquema.
-
-### 10.1.2. Componentes Físicos
-* **Controladores de Dominio (DC):** Servidores que alojan una copia de la base de datos de AD (`ntds.dit`).
-* **Sitios:** Representan la topología de la red física (subredes IP) y se utilizan para optimizar el tráfico de replicación.
+> Apuntes sobre virtualización de servidores, plataformas de virtualización y gestión de infraestructuras virtuales.
 
 ---
 
-## 10.2. Roles FSMO (Flexible Single Master Operations)
-Existen cinco funciones específicas que, para evitar conflictos, solo pueden ser ejecutadas por un único controlador de dominio a la vez:
+## 1. Principios de Virtualización
 
-1. **Schema Master (Maestro de Esquema):** Único por bosque. Gestiona las modificaciones en la estructura de clases y atributos de AD.
-2. **Domain Naming Master (Maestro de Nombres de Dominio):** Único por bosque. Controla la adición o eliminación de dominios en el bosque.
-3. **PDC Emulator (Emulador de PDC):** Único por dominio. Actúa como servidor de tiempo, gestiona bloqueos de cuenta y cambios de contraseña.
-4. **RID Master (Maestro de RID):** Único por dominio. Asigna secuencias de identificadores relativos a los DCs para la creación de nuevos objetos.
-5. **Infrastructure Master (Maestro de Infraestructura):** Único por dominio. Sincroniza referencias de objetos entre dominios distintos.
+La **virtualización** es una tecnología que permite crear recursos **virtuales (lógicos)** a partir de recursos **físicos**, como servidores, redes o almacenamiento.
+
+Gracias a la virtualización es posible ejecutar **varios sistemas operativos en un mismo servidor físico**, optimizando el uso del hardware.
 
 ---
 
-## 10.3. Directivas de Grupo (GPO) y Replicación
-Mecanismos para la gestión centralizada de configuraciones y la consistencia de los datos.
+### Hipervisor (VMM)
 
-* **GPO (Group Policy Objects):** Conjunto de reglas que definen la configuración de usuarios y equipos. 
-* **Orden de Aplicación (LSDOU):** Local -> Sitio (Site) -> Dominio -> Unidad Organizativa (OU). La configuración más específica (OU) prevalece sobre la general.
-* **Replicación:** Proceso de sincronización de la base de datos entre DCs. En Windows Server 2019, la replicación de `SYSVOL` se realiza mediante **DFSR**.
-* **Integración DNS:** AD depende de DNS para localizar servicios mediante registros **SRV**.
+El **hipervisor** o **Virtual Machine Monitor (VMM)** es el software encargado de gestionar las máquinas virtuales.
+
+Funciones principales:
+
+* crear máquinas virtuales
+* asignar recursos del host
+* aislar cada máquina virtual
+* controlar CPU, memoria, disco y red
 
 ---
 
-## 🛠️ Administración Técnica (Ejemplos)
+### Tipos de Hipervisores
 
-### Verificación de Roles FSMO
+#### Tipo 1 (Bare-Metal)
+
+Se ejecutan **directamente sobre el hardware físico**.
+
+Características:
+
+* mayor rendimiento
+* mayor seguridad
+* utilizados en centros de datos
+
+Ejemplos:
+
+* **VMware ESXi**
+* **Microsoft Hyper-V**
+* **Proxmox VE (KVM)**
+
+---
+
+#### Tipo 2 (Hosted)
+
+Se ejecutan **sobre un sistema operativo anfitrión**.
+
+Características:
+
+* instalación sencilla
+* utilizados en laboratorios y desarrollo
+
+Ejemplos:
+
+* **Oracle VirtualBox**
+* **VMware Workstation**
+
+---
+
+## 2. Plataformas de Virtualización
+
+Las plataformas de virtualización permiten administrar múltiples máquinas virtuales desde una infraestructura centralizada.
+
+| Plataforma                | Desarrollador | Características                                   |
+| ------------------------- | ------------- | ------------------------------------------------- |
+| **Hyper-V**               | Microsoft     | Integración con Windows Server y Active Directory |
+| **VMware vSphere / ESXi** | VMware        | Estándar empresarial con alta escalabilidad       |
+| **VirtualBox**            | Oracle        | Hipervisor tipo 2 para desarrollo y pruebas       |
+| **Proxmox VE**            | Proxmox       | Plataforma open source basada en Debian           |
+
+Proxmox integra dos tecnologías principales:
+
+* **KVM** → virtualización completa de máquinas
+* **LXC** → contenedores ligeros
+
+---
+
+## 3. Gestión y Mantenimiento de Máquinas Virtuales
+
+La gestión de máquinas virtuales implica controlar su **ciclo de vida completo**.
+
+---
+
+### Creación y configuración
+
+Al crear una máquina virtual se definen varios recursos:
+
+* **vCPU** (CPU virtual)
+* **vRAM** (memoria asignada)
+* **disco virtual**
+* **adaptadores de red virtuales**
+
+La memoria puede configurarse como:
+
+* **estática**
+* **dinámica**
+
+---
+
+### Snapshots (Instantáneas)
+
+Un **snapshot** captura el estado completo de una máquina virtual en un momento determinado.
+
+Incluye:
+
+* estado del disco
+* estado de la memoria
+* configuración de la VM
+
+Se utiliza normalmente:
+
+* antes de actualizaciones
+* antes de cambios críticos
+
+⚠️ No debe utilizarse como sistema permanente de copia de seguridad.
+
+---
+
+### Clonación y plantillas
+
+Permiten desplegar máquinas virtuales rápidamente.
+
+Tipos:
+
+* **Clonación** → copia exacta de una VM
+* **Plantillas (Templates)** → imagen base para crear múltiples VMs
+
+Esto facilita el despliegue masivo de servidores.
+
+---
+
+## 4. Redes y Almacenamiento Virtual
+
+Las infraestructuras virtuales utilizan redes y sistemas de almacenamiento virtualizados.
+
+---
+
+### Redes virtuales
+
+Las máquinas virtuales se conectan mediante **switches virtuales (vSwitch)**.
+
+Tipos de red:
+
+| Tipo                   | Descripción                       |
+| ---------------------- | --------------------------------- |
+| **Bridged / External** | conexión con la red física        |
+| **Host-Only**          | comunicación entre host y VM      |
+| **Internal**           | comunicación únicamente entre VMs |
+
+---
+
+### Almacenamiento virtual
+
+Las máquinas virtuales utilizan **discos virtuales**.
+
+Formatos más comunes:
+
+* **VHD / VHDX** → Hyper-V
+* **VMDK** → VMware
+* **RAW / QCOW2** → KVM / Proxmox
+
+En entornos empresariales se emplea **almacenamiento compartido**:
+
+* **SAN** → iSCSI / Fibre Channel
+* **NAS** → NFS / SMB
+
+Esto permite mover máquinas virtuales entre hosts físicos.
+
+---
+
+## 5. Alta Disponibilidad (HA)
+
+La **alta disponibilidad** garantiza que los servicios sigan funcionando incluso si falla un servidor físico.
+
+---
+
+### Live Migration / vMotion
+
+Permite mover una máquina virtual **de un host físico a otro sin detenerla**.
+
+Ventajas:
+
+* mantenimiento sin interrupciones
+* balanceo de carga entre servidores
+
+---
+
+### Failover Cluster
+
+Un **cluster de virtualización** está formado por varios servidores físicos.
+
+Si un nodo falla:
+
+* las máquinas virtuales se reinician automáticamente
+* se ejecutan en otro nodo del cluster
+
+Requisito importante:
+
+* **almacenamiento compartido** entre nodos
+
+---
+
+## 🛠️ Herramientas de Administración
+
+### Hyper-V (PowerShell)
+
 ```powershell
-# Usando PowerShell para ver roles a nivel de dominio y bosque
-Get-ADDomain | Select-Object InfrastructureMaster, RIDMaster, PDCEmulator
-Get-ADForest | Select-Object SchemaMaster, DomainNamingMaster
+# Listar todas las máquinas virtuales
+Get-VM
 
-# Forzar la actualización de directivas en un equipo cliente
-gpupdate /force
+# Crear snapshot de una VM
+Checkpoint-VM -Name "Servidor_Web" -SnapshotName "Antes_de_Update"
 
-# Generar informe de directivas resultantes (RSOP)
-gpresult /R
+# Ver switches virtuales
+Get-VMSwitch
 ```
