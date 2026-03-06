@@ -6,18 +6,6 @@
 
 ---
 
-## 📑 Índice
-
-* [1. Modelo TCP/IP](#1-modelo-tcpip)
-* [2. Protocolos web: HTTP y HTTPS](#2-protocolos-web-http-y-https)
-* [3. Transferencia de archivos: FTP y SFTP](#3-transferencia-de-archivos-ftp-y-sftp)
-* [4. Protocolos de correo electrónico](#4-protocolos-de-correo-electrónico)
-* [5. Arquitectura cliente-servidor y navegadores](#5-arquitectura-cliente-servidor-y-navegadores)
-* [Herramientas de administración](#herramientas-de-administración-técnica-y-comandos)
-* [Conceptos clave para examen](#conceptos-clave-para-el-examen)
-
----
-
 # 1. Modelo TCP/IP
 
 El **modelo TCP/IP** es el conjunto de protocolos que permite la comunicación en **Internet y redes locales**.
