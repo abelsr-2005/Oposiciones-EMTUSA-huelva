@@ -69,4 +69,16 @@ Get-EventLog -LogName System -EntryType Error -Newest 5
 
 # Forzar la actualización de GPOs en el equipo local
 gpupdate /force
-´´´
+```
+
+### Bash (Linux)
+```bash
+# Monitorizar procesos y consumo de recursos en tiempo real
+top
+
+# Cambiar permisos de un archivo (Lectura/Escritura para dueño, lectura para grupo/otros)
+chmod 644 archivo.txt
+
+# Ver el estado del servicio SSH
+systemctl status ssh
+```
