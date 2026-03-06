@@ -223,5 +223,6 @@ ipconfig
 # Consultar resolución DNS
 nslookup google.com
 
-# Mostrar c
+# Mostrar conexiones de red activas
+netstat
 ```
