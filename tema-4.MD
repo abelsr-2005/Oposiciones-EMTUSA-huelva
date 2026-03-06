@@ -14,7 +14,7 @@
 * **Estilos:** Es la herramienta más importante para la estructuración técnica del documento. Aplicar estilos (Título 1, Título 2, Normal) permite mantener la coherencia visual, cambiar el diseño global de forma centralizada y generar Tablas de Contenido automáticas.
 * **Saltos de página (Ctrl + Enter):** Fuerza el inicio del texto en la página siguiente, manteniendo el formato general intacto.
 
-### Alerta de Trampa (Estructuración: Página vs Sección)
+### 🚸 Alerta de Trampa (Estructuración: Página vs Sección)
 Pregunta de examen garantizada: Un Salto de Página se limita a pasar el texto a la hoja siguiente. Sin embargo, un **Salto de Sección** aísla el documento en partes independientes, permitiendo que cada sección tenga una configuración de página totalmente distinta (ej. una página en orientación vertical y la siguiente en horizontal, o encabezados diferentes).
 
 ## 4.3. Gestión, grabación, recuperación e impresión
