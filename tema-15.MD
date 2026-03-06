@@ -6,15 +6,6 @@
 
 ---
 
-## 📑 Índice
-
-* [1. Entorno Visual Studio y ecosistema .NET](#1-entorno-visual-studio-y-ecosistema-net)
-* [2. Arquitectura y estructuras de programación](#2-arquitectura-y-estructuras-de-programación)
-* [3. Desarrollo web: HTML y CSS](#3-desarrollo-web-html-y-css)
-* [4. Accesibilidad y compatibilidad](#4-accesibilidad-y-compatibilidad)
-
----
-
 # 1. Entorno Visual Studio y Ecosistema .NET
 
 **Visual Studio** es uno de los entornos de desarrollo integrados (**IDE**) más utilizados para crear aplicaciones profesionales en el ecosistema Microsoft.
@@ -267,4 +258,5 @@ Dispositivos soportados:
 
 Esto se consigue principalmente mediante:
 
-* CSS
+* CSS flexible
+* media queries
