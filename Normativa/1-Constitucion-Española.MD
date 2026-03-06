@@ -1,4 +1,4 @@
-# U+1F1EA Constitución Española
+# :spain: Constitución Española
 
 # 📚 Índice
 
