@@ -6,15 +6,6 @@
 
 ---
 
-## 📑 Índice
-
-* [1. Uso avanzado de Microsoft 365](#1-uso-avanzado-de-microsoft-365-y-colaboración-en-línea)
-* [2. Automatización y macros](#2-automatización-y-macros)
-* [3. Administración de usuarios y licencias](#3-administración-centralizada-de-usuarios-y-licencias)
-* [4. Instalación y políticas de actualización](#4-instalación-configuración-y-políticas-de-actualización)
-
----
-
 # 1. Uso Avanzado de Microsoft 365 y Colaboración en Línea
 
 **Microsoft 365** es una plataforma de productividad basada en la nube que integra aplicaciones de oficina, almacenamiento y herramientas de colaboración.
