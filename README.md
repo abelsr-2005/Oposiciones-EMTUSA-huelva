@@ -10,7 +10,7 @@
 
 ## 📅 Día 1
 
-### 🏛️ Constitución
+### [🏛️ Constitución](./normativa/)
 
 * Art. 1 a 9
 * Estado social y democrático de Derecho
