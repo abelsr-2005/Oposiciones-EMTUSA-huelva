@@ -1,257 +1,266 @@
-# 🚌 Sistema de Gestión de EMTUSA (Calidad, Medio Ambiente y Seguridad Vial)
+# 🚌 Manual de Gestión EMTUSA – Resumen para Oposición
 
-## 📌 Objeto y campo de aplicación
+## 🎯 Lo más importante para examen
 
-El Manual de Gestión establece el Sistema Integrado de Gestión de la Empresa Municipal de Transportes Urbanos de Huelva (EMTUSA). Este sistema describe la documentación, responsabilidades y procedimientos que permiten aplicar correctamente los requisitos relacionados con la calidad, el medio ambiente y la seguridad vial.
+* EMTUSA tiene un sistema integrado de:
 
-El sistema se basa en tres normas principales:
+  * Calidad
+  * Medio Ambiente
+  * Seguridad Vial
+* El sistema se basa en tres normas:
 
-* ISO 9001:2015 (Gestión de la calidad)
-* ISO 14001:2015 (Gestión medioambiental)
-* ISO 39001:2013 (Seguridad vial)
+  * ISO 9001:2015 = Calidad
+  * ISO 14001:2015 = Medio Ambiente
+  * ISO 39001:2013 = Seguridad Vial
+* Todo el personal debe conocer, comprender y aplicar correctamente el Manual.
+* El objetivo principal es mejorar continuamente el servicio y prevenir riesgos, accidentes y no conformidades.
 
-Su ámbito de aplicación es el transporte urbano colectivo de viajeros en superficie en la ciudad de Huelva.
+IMPORTANTE PARA EXAMEN:
 
-El sistema integrado busca:
+* ISO 9001 = calidad
+* ISO 14001 = medio ambiente
+* ISO 39001 = seguridad vial
 
-* Garantizar la calidad del servicio prestado a los usuarios.
-* Proteger el medio ambiente durante el desarrollo de la actividad.
-* Mejorar la seguridad vial en la prestación del servicio.
-* Definir responsabilidades y evitar duplicidades en la organización.
-* Prevenir y corregir no conformidades en los procesos.
+---
 
 ## 📚 Referencias normativas
 
-El sistema de gestión se fundamenta principalmente en varias normas internacionales que regulan la calidad, el medio ambiente y la seguridad vial.
+El Manual de Gestión está basado principalmente en:
 
-Las principales normas utilizadas son:
+* UNE-EN ISO 9001:2015 “Sistemas de Gestión de la Calidad. Requisitos”
+* UNE-EN ISO 9000:2015 “Principios y vocabulario”
+* UNE-EN ISO 9004:2000 “Recomendaciones para la mejora”
+* UNE-EN ISO 14001:2015 “Sistemas de Gestión Medioambiental”
+* UNE-ISO 39001:2013 “Gestión de la Seguridad Vial”
 
-* ISO 9001:2015 Sistemas de Gestión de Calidad.
-* ISO 9000:2015 Principios y vocabulario de calidad.
-* ISO 9004:2000 Recomendaciones para la mejora del sistema de calidad.
-* ISO 14001:2015 Sistemas de Gestión Medioambiental.
-* ISO 39001:2013 Sistemas de Gestión de Seguridad Vial.
+IMPORTANTE PARA EXAMEN:
+Suelen preguntar qué ISO corresponde a cada ámbito.
 
-Estas normas sirven como referencia para diseñar, aplicar y mejorar continuamente el sistema de gestión integrado de EMTUSA.
+---
 
-## 📖 Términos y definiciones
+## 🏢 Objetivos del Manual
 
-El manual adopta los términos y definiciones establecidos en las normas ISO anteriormente citadas. Algunos conceptos importantes son:
+El Manual sirve para:
 
-**Acción correctiva:** acción destinada a eliminar la causa de una no conformidad.
+* Especificar responsabilidades de cada área de trabajo
+* Evitar solapamientos de competencias
+* Prevenir no conformidades
+* Resolver correctamente incidencias ya producidas
+* Mejorar continuamente los servicios
+* Adoptar nuevas técnicas, procedimientos y personal
 
-**Acción preventiva:** acción destinada a eliminar la causa de una posible no conformidad.
+IMPORTANTE PARA EXAMEN:
+No conformidad = incumplimiento de un requisito.
 
-**Auditoría:** proceso sistemático e independiente que permite evaluar el grado de cumplimiento de los criterios establecidos.
+---
 
-**Conformidad:** cumplimiento de un requisito establecido.
+## 👥 Liderazgo y compromiso
 
-**Competencia:** capacidad de aplicar conocimientos y habilidades para lograr los resultados previstos.
+La Dirección demuestra liderazgo cuando:
 
-**Indicador:** herramienta que permite medir la evolución de procesos, servicios o impactos ambientales.
+* Determina y cumple los requisitos legales
+* Determina y cumple los requisitos del cliente
+* Identifica riesgos y oportunidades
+* Mejora la satisfacción del cliente
+* Comunica y mantiene actualizada la política de gestión
 
-**Mejora continua:** proceso permanente destinado a mejorar la calidad, el desempeño ambiental y la seguridad vial.
+IMPORTANTE PARA EXAMEN:
+La política de gestión debe estar documentada, disponible y ser conocida por toda la organización.
 
-**Parte interesada:** cualquier persona u organización que pueda verse afectada por las actividades de la empresa.
+---
 
-## 🌍 Conceptos medioambientales
+## 📝 Política de Gestión
 
-El sistema de gestión contempla también definiciones relacionadas con el medio ambiente:
+La política de gestión de EMTUSA se basa en:
 
-**Aspecto medioambiental:** elemento de una actividad que puede interactuar con el medio ambiente.
+* Prestar un servicio público de transporte urbano de viajeros
+* Cubrir una necesidad social de primer orden
+* Cumplir las expectativas de calidad
+* Fidelizar al cliente o usuario
+* Captar nuevos clientes
+* Buscar la excelencia en el servicio
+* Garantizar un alto nivel competencial del personal
 
-**Impacto ambiental:** cualquier cambio producido en el medio ambiente como consecuencia de las actividades de la organización.
+IMPORTANTE PARA EXAMEN:
+EMTUSA considera imprescindible:
 
-**Prevención de la contaminación:** acciones dirigidas a reducir al máximo el impacto ambiental de las operaciones.
+* La calidad del servicio
+* El alto nivel competencial del personal
 
-## 🚦 Conceptos de seguridad vial
+---
 
-Dentro del sistema de gestión se incluyen conceptos relacionados con la seguridad vial:
+## ⚠️ Riesgos y oportunidades
 
-**Accidente de tráfico:** suceso ocurrido en la vía pública que causa daños materiales, lesiones o fallecimientos.
+EMTUSA identifica riesgos y oportunidades en:
 
-**Incidente de tráfico:** cualquier evento relacionado con el sistema vial que puede producir un accidente.
+* Calidad
+* Medio Ambiente
+* Seguridad Vial
 
-**Factor de desempeño en seguridad vial:** elemento medible que influye en la seguridad vial.
+El objetivo es:
 
-**Sistema vial:** conjunto formado por la vía pública, los vehículos, los usuarios y los servicios de emergencia.
+* Lograr los resultados previstos
+* Aumentar efectos deseables
+* Reducir efectos no deseados
+* Lograr la mejora continua
 
-## 🏢 Contexto de la organización
+IMPORTANTE PARA EXAMEN:
+Los riesgos y oportunidades se identifican, se integran en los procesos y después se evalúa la eficacia de las acciones tomadas.
 
-EMTUSA es la empresa municipal encargada de prestar el servicio de transporte urbano de viajeros en la ciudad de Huelva. Su sede se encuentra en la Avenida de las Veredas nº 54.
+---
 
-La empresa dispone de varias líneas de autobuses que conectan diferentes zonas de la ciudad y desempeña un papel fundamental en la movilidad urbana.
+## 🚦 Seguridad Vial
 
-El transporte público contribuye a:
+La planificación de seguridad vial busca:
 
-* Reducir el uso del vehículo privado.
-* Mejorar la movilidad urbana.
-* Disminuir los riesgos de siniestralidad en el tráfico.
+* Reducir accidentes
+* Evitar pérdidas de vidas humanas
+* Evitar daños a trabajadores y usuarios
+* Incrementar la seguridad operacional
+* Mejorar la satisfacción de trabajadores y clientes
 
-Sin embargo, el aumento del servicio también implica nuevos riesgos relacionados con la circulación, la seguridad de los usuarios y el funcionamiento de los vehículos.
+IMPORTANTE PARA EXAMEN:
+La seguridad vial se evalúa mediante riesgos, oportunidades, objetivos, metas y planes.
 
-Por ello, EMTUSA desarrolla un sistema de gestión que tiene en cuenta el contexto físico, social, legal y organizativo en el que opera.
+---
 
-## 👥 Partes interesadas
+## 🧾 Planificación
 
-Entre las principales partes interesadas se encuentran:
+La planificación del sistema tiene en cuenta:
 
-* El Ayuntamiento de Huelva, propietario de la empresa.
-* Los ciudadanos de la ciudad.
-* Los usuarios del servicio de transporte.
-* Los trabajadores de la empresa.
-* Otros servicios públicos relacionados con la movilidad y la seguridad.
+* Resultados de revisiones anteriores
+* Aspectos medioambientales significativos
+* Factores de riesgo de seguridad vial
+* Requisitos legales
+* Requisitos financieros y tecnológicos
+* Opinión de clientes y partes interesadas
 
-La empresa debe cumplir además con la legislación vigente y con los requisitos legales aplicables a sus actividades.
+Además, EMTUSA controla:
 
-## 🧭 Alcance del sistema de gestión
+* Auditorías internas
+* No conformidades
+* Acciones correctivas y preventivas
+* Satisfacción de clientes
+* Indicadores de desempeño
 
-El sistema de gestión se aplica a todas las actividades relacionadas con el transporte urbano de viajeros realizadas por EMTUSA.
+IMPORTANTE PARA EXAMEN:
+Las auditorías internas se realizan según el procedimiento PG-920.
 
-Incluye actividades como:
+---
 
-* Planificación de rutas y servicios.
-* Mantenimiento y limpieza de vehículos.
-* Gestión administrativa.
-* Venta de billetes.
+## 🔄 Cambios en el sistema
 
-El objetivo es garantizar un servicio eficiente, respetuoso con el medio ambiente y seguro para trabajadores y usuarios.
+Cuando se realizan cambios en el sistema de gestión, EMTUSA debe considerar:
 
-## ⚙️ Sistema de gestión y procesos
+* El propósito del cambio
+* Sus consecuencias potenciales
+* La integridad del sistema
+* Los recursos disponibles
+* La asignación de responsabilidades
 
-EMTUSA dispone de un sistema integrado que combina la gestión de la calidad, el medio ambiente y la seguridad vial.
+IMPORTANTE PARA EXAMEN:
+Los cambios deben hacerse siempre de forma planificada.
 
-Este sistema se basa en el análisis de procesos que interactúan entre sí dentro de la organización.
+---
 
-Entre sus objetivos principales se encuentran:
+## 🛠️ Recursos
 
-* Prevenir accidentes de tráfico.
-* Reducir impactos ambientales.
-* Mejorar la calidad del servicio.
-* Aplicar un enfoque preventivo basado en riesgos.
+EMTUSA proporciona recursos para implantar y mejorar el sistema de gestión.
 
-El sistema permite analizar los desplazamientos realizados por los trabajadores y realizar un seguimiento de los accidentes laborales relacionados con el tráfico.
+Tipos de recursos:
 
-## 👨‍💼 Liderazgo y compromiso
+* Humanos
+* Infraestructura
+* Tecnología
+* Recursos financieros
+* Equipos informáticos y ofimáticos
+* Instalaciones
+* Servicios de apoyo
 
-La dirección de EMTUSA tiene un papel fundamental en el sistema de gestión.
+IMPORTANTE PARA EXAMEN:
+La infraestructura incluye hardware, software, maquinaria, instalaciones y servicios de apoyo.
 
-Entre sus principales responsabilidades se encuentran:
+---
 
-* Establecer la política de calidad, medio ambiente y seguridad vial.
-* Garantizar que se disponen de los recursos necesarios.
-* Integrar el sistema de gestión en los procesos de la organización.
-* Promover la mejora continua.
-* Asegurar el cumplimiento de los requisitos legales.
+## 👨‍💼 Recursos humanos
 
-La dirección también debe garantizar que el sistema de gestión se revisa periódicamente para asegurar su eficacia.
+La Dirección identifica los recursos humanos necesarios para:
 
-## 📜 Política de gestión
+* Mantener la calidad
+* Disponer de personal formado
+* Garantizar la conformidad del servicio
+* Mantener un sistema de gestión eficaz
 
-La política de gestión de EMTUSA establece los principios que guían el funcionamiento de la empresa.
+IMPORTANTE PARA EXAMEN:
+La gestión de recursos humanos se regula mediante el procedimiento PG-720.
 
-Entre sus compromisos destacan:
+---
 
-* Prestar un servicio público de transporte urbano de calidad.
-* Cumplir con la legislación aplicable.
-* Mejorar continuamente el sistema de gestión.
-* Proteger el medio ambiente.
-* Prevenir la contaminación.
-* Garantizar la seguridad vial de trabajadores y usuarios.
+## 🧪 Conceptos que pueden preguntar
 
-Esta política se comunica a todo el personal y sirve como base para definir los objetivos y metas de la organización.
+* Acción correctiva = elimina la causa de una no conformidad ya producida
+* Acción preventiva = evita que ocurra una posible no conformidad
+* Auditoría = revisión sistemática del sistema
+* No conformidad = incumplimiento de un requisito
+* Riesgo = posibilidad de que ocurra un problema
+* Oportunidad = posibilidad de mejora
+* Parte interesada = persona o entidad afectada por EMTUSA
 
-## 🏗️ Organización y responsabilidades
+IMPORTANTE PARA EXAMEN:
+Diferencia típica:
 
-La organización de EMTUSA se estructura mediante un organigrama que define las funciones y responsabilidades de cada puesto.
+* Acción correctiva → corrige un problema ya ocurrido
+* Acción preventiva → evita un problema futuro
 
-Entre los cargos principales destacan:
+---
 
-* Consejo de Administración
-* Director gerente
-* Responsable del sistema de gestión
-* Jefes de división
-* Personal técnico y administrativo
+## ⭐ Preguntas típicas de examen
 
-Cada puesto tiene definidas sus funciones, responsabilidades y competencias para asegurar el correcto funcionamiento del sistema de gestión.
+* ¿Qué ISO corresponde a calidad? → ISO 9001
+* ¿Qué ISO corresponde a medio ambiente? → ISO 14001
+* ¿Qué ISO corresponde a seguridad vial? → ISO 39001
+* ¿Qué significa una no conformidad? → Incumplimiento de un requisito
+* ¿Qué diferencia hay entre acción correctiva y preventiva?
+* ¿Qué procedimiento regula auditorías internas? → PG-920
+* ¿Qué procedimiento regula recursos humanos? → PG-720
+* ¿Qué procedimiento regula no conformidades? → PG-1020
+* ¿Quién debe conocer y aplicar el Manual? → Todo el personal
+* ¿Qué busca la política de gestión? → Calidad, satisfacción del cliente y mejora continua
 
-## 📊 Planificación
+---
 
-La planificación del sistema de gestión permite establecer los recursos necesarios para alcanzar los objetivos de la organización.
+## 🧠 Datos para memorizar
 
-Se tienen en cuenta factores como:
+* ISO 9001 = calidad
+* ISO 14001 = medio ambiente
+* ISO 39001 = seguridad vial
+* PG-720 = gestión de recursos humanos
+* PG-920 = auditorías internas
+* PG-1020 = no conformidades y acciones correctivas y preventivas
+* La política debe estar documentada
+* Todo el personal debe conocer y aplicar el Manual
 
-* Requisitos legales.
-* Riesgos y oportunidades.
-* Opinión de los clientes.
-* Impactos ambientales.
-* Factores de seguridad vial.
+---
 
-La planificación se revisa periódicamente durante la revisión del sistema por la dirección.
+## 🚨 Conceptos trampa que suelen confundir
 
-## ⚠️ Gestión de riesgos y oportunidades
+* Acción correctiva ≠ acción preventiva
+* Riesgo ≠ oportunidad
+* Calidad ≠ medio ambiente ≠ seguridad vial
+* Auditoría ≠ inspección
+* No conformidad = incumplimiento de un requisito
+* Parte interesada = cualquier persona o entidad afectada por EMTUSA
 
-EMTUSA identifica los riesgos y oportunidades relacionados con:
+---
 
-* La calidad del servicio.
-* La seguridad vial.
-* El medio ambiente.
+## 📝 Mnemotecnia rápida
 
-El objetivo es prevenir problemas, mejorar los procesos y aumentar la eficacia del sistema de gestión.
+* “9-14-39”:
 
-Para ello se aplican procedimientos específicos de identificación y evaluación de riesgos.
+  * 9001 = calidad
+  * 14001 = medio ambiente
+  * 39001 = seguridad vial
 
-## 🎯 Objetivos y programa de gestión
+* “Correctiva corrige, preventiva previene”
 
-A partir de la política de gestión, la dirección establece objetivos y metas que se recogen en el Programa de Gestión.
-
-Este programa incluye:
-
-* Objetivos a alcanzar.
-* Responsables de cada objetivo.
-* Recursos necesarios.
-* Calendario de ejecución.
-
-Los objetivos deben ser medibles y revisados periódicamente.
-
-## 🧰 Recursos y apoyo
-
-Para el funcionamiento del sistema de gestión, EMTUSA dispone de diferentes recursos:
-
-* Recursos humanos cualificados.
-* Infraestructuras y equipos adecuados.
-* Sistemas informáticos de gestión.
-* Recursos financieros.
-
-La empresa mantiene además un plan de mantenimiento de equipos e instalaciones para garantizar el correcto funcionamiento del servicio.
-
-## 🎓 Competencia y formación
-
-EMTUSA asegura que su personal dispone de la formación, habilidades y experiencia necesarias para realizar su trabajo correctamente.
-
-Para ello:
-
-* Se identifican las necesidades formativas.
-* Se elaboran planes de formación.
-* Se registran las actividades formativas realizadas.
-
-La formación es fundamental para mejorar la calidad del servicio y garantizar la seguridad en las operaciones.
-
-## 📢 Comunicación
-
-La empresa establece sistemas de comunicación interna y externa.
-
-La comunicación interna permite informar al personal sobre:
-
-* La política de gestión.
-* Los objetivos de la organización.
-* Los resultados del sistema de gestión.
-
-La comunicación externa incluye:
-
-* Atención a clientes.
-* Gestión de reclamaciones.
-* Información pública.
-* Comunicación con administraciones y otras entidades.
-
-Estas comunicaciones permiten mejorar la relación con los usuarios y las partes interesadas.
+* “PG-720 personas, PG-920 auditorías, PG-1020 fallos”
