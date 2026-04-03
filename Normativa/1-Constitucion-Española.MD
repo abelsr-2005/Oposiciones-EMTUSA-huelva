@@ -1,4 +1,4 @@
-# 🏛️ Constitución Española – Resumen para Oposición EMTUSA
+# 🏛️ Constitución Española – Resumen Completo para Oposición EMTUSA
 
 ## 🎯 Lo más importante para examen
 
@@ -53,7 +53,25 @@ Principios garantizados por la Constitución:
 * Interdicción de la arbitrariedad
 
 IMPORTANTE PARA EXAMEN:
-La seguridad jurídica aparece en el artículo 9.3.
+
+* La seguridad jurídica aparece en el artículo 9.3.
+
+### 🔟 Artículo 10
+
+* La dignidad de la persona y los derechos inviolables son fundamento del orden político y de la paz social.
+* Los derechos fundamentales se interpretan conforme a la Declaración Universal de Derechos Humanos.
+
+IMPORTANTE PARA EXAMEN:
+
+* Artículo 10 = dignidad de la persona.
+
+### 1️⃣2️⃣ Artículo 12
+
+* La mayoría de edad en España se alcanza a los 18 años.
+
+IMPORTANTE PARA EXAMEN:
+
+* Artículo 12 = 18 años.
 
 ---
 
@@ -61,19 +79,32 @@ La seguridad jurídica aparece en el artículo 9.3.
 
 ### 👥 Artículo 14
 
-Los españoles son iguales ante la ley.
-
-No puede prevalecer discriminación por:
-
-* Nacimiento
-* Raza
-* Sexo
-* Religión
-* Opinión
-* Cualquier otra condición o circunstancia personal o social
+* Los españoles son iguales ante la ley.
+* No puede prevalecer discriminación por nacimiento, raza, sexo, religión, opinión o cualquier otra condición o circunstancia personal o social.
 
 IMPORTANTE PARA EXAMEN:
-Artículo 14 = igualdad ante la ley.
+
+* Artículo 14 = igualdad ante la ley.
+
+### ❤️ Artículo 15
+
+* Derecho a la vida y a la integridad física y moral.
+* Prohibición de torturas y tratos inhumanos o degradantes.
+* Queda abolida la pena de muerte salvo leyes penales militares en tiempo de guerra.
+
+IMPORTANTE PARA EXAMEN:
+
+* Artículo 15 = derecho a la vida.
+
+### 🙏 Artículo 16
+
+* Libertad ideológica, religiosa y de culto.
+* Nadie puede ser obligado a declarar sobre su ideología, religión o creencias.
+* Ninguna confesión tendrá carácter estatal.
+
+IMPORTANTE PARA EXAMEN:
+
+* España es un Estado aconfesional.
 
 ### 🚔 Artículo 17
 
@@ -81,7 +112,8 @@ Artículo 14 = igualdad ante la ley.
 * La detención preventiva no podrá durar más de 72 horas.
 
 IMPORTANTE PARA EXAMEN:
-72 horas = plazo máximo de detención preventiva.
+
+* 72 horas = plazo máximo de detención preventiva.
 
 ### 🏠 Artículo 18
 
@@ -91,7 +123,8 @@ IMPORTANTE PARA EXAMEN:
 * La ley limitará el uso de la informática.
 
 IMPORTANTE PARA EXAMEN:
-Artículo 18.4 = la ley limitará el uso de la informática para proteger honor, intimidad y derechos. Esto enlaza directamente con la protección de datos.
+
+* Artículo 18.4 = protección de datos e informática.
 
 ### 🗣️ Artículo 20
 
@@ -114,13 +147,12 @@ IMPORTANTE PARA EXAMEN:
 
 ### 🗳️ Artículo 23
 
-Los ciudadanos tienen derecho a:
-
-* Participar en asuntos públicos
-* Acceder en condiciones de igualdad a funciones y cargos públicos
+* Derecho a participar en asuntos públicos.
+* Derecho a acceder en igualdad a funciones y cargos públicos.
 
 IMPORTANTE PARA EXAMEN:
-Artículo 23 = acceso a cargos públicos.
+
+* Artículo 23 = acceso a cargos públicos.
 
 ### ⚖️ Artículo 24
 
@@ -131,25 +163,76 @@ Todas las personas tienen derecho a:
 * Defensa y asistencia de letrado
 * Proceso público sin dilaciones indebidas
 
+### 👨‍👩‍👧‍👦 Artículo 27
+
+* Derecho a la educación.
+* Libertad de enseñanza.
+* Enseñanza básica obligatoria y gratuita.
+
+IMPORTANTE PARA EXAMEN:
+
+* Artículo 27 = educación obligatoria y gratuita.
+
 ### ✊ Artículo 28
 
-* Derecho de sindicación
-* Derecho de huelga
+* Derecho de sindicación.
+* Derecho de huelga.
 
 ### 💼 Artículo 35
 
-* Derecho al trabajo
-* Libre elección de profesión u oficio
-* Remuneración suficiente
+* Derecho al trabajo.
+* Libre elección de profesión u oficio.
+* Remuneración suficiente.
 
 ### 🤝 Artículo 37
 
-* Derecho a la negociación colectiva
-* Derecho a adoptar medidas de conflicto colectivo
+* Derecho a la negociación colectiva.
+* Derecho a adoptar medidas de conflicto colectivo.
 
 ### 🏢 Artículo 38
 
-* Libertad de empresa dentro de la economía de mercado
+* Libertad de empresa dentro de la economía de mercado.
+
+---
+
+## 🌍 Principios rectores de la política social y económica
+
+### 🧾 Artículo 31
+
+* Todos contribuirán al sostenimiento de los gastos públicos según su capacidad económica.
+* Sistema tributario basado en igualdad y progresividad.
+* No tendrá alcance confiscatorio.
+
+IMPORTANTE PARA EXAMEN:
+
+* Artículo 31 = principios tributarios.
+
+### 🏥 Artículo 43
+
+* Derecho a la protección de la salud.
+* Los poderes públicos organizarán y tutelarán la salud pública.
+
+IMPORTANTE PARA EXAMEN:
+
+* Artículo 43 = salud.
+
+### 🌳 Artículo 45
+
+* Derecho a disfrutar de un medio ambiente adecuado.
+* Deber de conservarlo.
+
+IMPORTANTE PARA EXAMEN:
+
+* Artículo 45 = medio ambiente.
+
+### 🏠 Artículo 47
+
+* Derecho a disfrutar de una vivienda digna y adecuada.
+* Los poderes públicos impedirán la especulación del suelo.
+
+IMPORTANTE PARA EXAMEN:
+
+* Artículo 47 = vivienda digna.
 
 ---
 
@@ -167,7 +250,35 @@ Todas las personas tienen derecho a:
 * Defiende los derechos fundamentales.
 
 IMPORTANTE PARA EXAMEN:
-Defensor del Pueblo = alto comisionado de las Cortes Generales.
+
+* Defensor del Pueblo = alto comisionado de las Cortes Generales.
+
+---
+
+## 👑 La Corona
+
+### 👑 Artículo 56
+
+* El Rey es el Jefe del Estado.
+* Simboliza la unidad y permanencia de España.
+* La persona del Rey es inviolable y no está sujeta a responsabilidad.
+
+IMPORTANTE PARA EXAMEN:
+
+* Artículo 56 = Rey inviolable.
+
+### 👑 Artículo 62
+
+Funciones del Rey:
+
+* Sancionar y promulgar leyes
+* Convocar elecciones
+* Proponer candidato a Presidente del Gobierno
+* Mando supremo de las Fuerzas Armadas
+
+IMPORTANTE PARA EXAMEN:
+
+* Artículo 62 = funciones del Rey.
 
 ---
 
@@ -192,14 +303,16 @@ El Congreso:
 * Mandato de 4 años
 
 IMPORTANTE PARA EXAMEN:
-Congreso = entre 300 y 400 diputados.
+
+* Congreso = entre 300 y 400 diputados.
 
 ### 🏞️ Artículo 69
 
-El Senado es la cámara de representación territorial.
+* El Senado es la cámara de representación territorial.
 
 IMPORTANTE PARA EXAMEN:
-Senado = representación territorial.
+
+* Senado = representación territorial.
 
 ---
 
@@ -215,18 +328,20 @@ Las leyes orgánicas regulan:
 * Régimen electoral general
 
 IMPORTANTE PARA EXAMEN:
-Las leyes orgánicas necesitan mayoría absoluta del Congreso.
+
+* Necesitan mayoría absoluta del Congreso.
 
 ### ⚡ Artículo 86
 
 El decreto-ley:
 
-* Solo puede dictarse en caso de extraordinaria y urgente necesidad
-* No puede afectar a derechos fundamentales, régimen electoral o instituciones básicas del Estado
-* Debe convalidarse en 30 días
+* Solo puede dictarse en caso de extraordinaria y urgente necesidad.
+* No puede afectar a derechos fundamentales, régimen electoral o instituciones básicas del Estado.
+* Debe convalidarse en 30 días.
 
 IMPORTANTE PARA EXAMEN:
-30 días = plazo de convalidación del decreto-ley.
+
+* 30 días = convalidación del decreto-ley.
 
 ### ✍️ Artículo 87
 
@@ -239,7 +354,8 @@ La iniciativa legislativa corresponde a:
 * Iniciativa popular
 
 IMPORTANTE PARA EXAMEN:
-La iniciativa legislativa popular necesita al menos 500.000 firmas acreditadas.
+
+* La iniciativa popular necesita al menos 500.000 firmas.
 
 ### ⏳ Artículo 90
 
@@ -251,7 +367,8 @@ La iniciativa legislativa popular necesita al menos 500.000 firmas acreditadas.
 * El Rey sanciona las leyes en el plazo de 15 días.
 
 IMPORTANTE PARA EXAMEN:
-15 días = sanción real.
+
+* 15 días = sanción real.
 
 ---
 
@@ -261,26 +378,63 @@ IMPORTANTE PARA EXAMEN:
 
 El Gobierno:
 
-* Dirige la política interior y exterior
-* Dirige la Administración civil y militar
-* Dirige la defensa del Estado
-* Ejerce la función ejecutiva
-* Ejerce la potestad reglamentaria
+* Dirige la política interior y exterior.
+* Dirige la Administración civil y militar.
+* Dirige la defensa del Estado.
+* Ejerce la función ejecutiva.
+* Ejerce la potestad reglamentaria.
 
 IMPORTANTE PARA EXAMEN:
-La potestad reglamentaria corresponde al Gobierno.
+
+* La potestad reglamentaria corresponde al Gobierno.
+
+### 🗓️ Artículo 99
+
+Investidura del Presidente del Gobierno:
+
+* Primera votación: mayoría absoluta.
+* Segunda votación 48 horas después: mayoría simple.
+* Si pasan 2 meses sin presidente, se convocan nuevas elecciones.
+
+IMPORTANTE PARA EXAMEN:
+
+* 48 horas = segunda votación.
+* 2 meses = repetición electoral.
+
+### 🚨 Artículo 116
+
+Estados excepcionales:
+
+* Estado de alarma = 15 días.
+* Estado de excepción = 30 días.
+* Estado de sitio = mayoría absoluta del Congreso.
+
+IMPORTANTE PARA EXAMEN:
+
+* Alarma = 15 días.
+* Excepción = 30 días.
 
 ---
 
 ## 🧠 Datos que debes memorizar
 
 * Art. 1 = Estado social y democrático de Derecho
+* Art. 10 = dignidad de la persona
+* Art. 12 = mayoría de edad
 * Art. 14 = igualdad
+* Art. 15 = derecho a la vida
 * Art. 17 = 72 horas detención
 * Art. 18.4 = informática
 * Art. 23 = acceso a cargos públicos
+* Art. 27 = educación
+* Art. 31 = impuestos
+* Art. 43 = salud
+* Art. 45 = medio ambiente
+* Art. 47 = vivienda
 * Art. 53 = recurso de amparo
 * Art. 54 = Defensor del Pueblo
+* Art. 56 = Rey
+* Art. 62 = funciones del Rey
 * Art. 68 = 300-400 diputados
 * Art. 69 = Senado territorial
 * Art. 81 = ley orgánica
@@ -288,16 +442,44 @@ La potestad reglamentaria corresponde al Gobierno.
 * Art. 87 = 500.000 firmas
 * Art. 90 = 2 meses Senado
 * Art. 91 = 15 días Rey
+* Art. 99 = investidura
+* Art. 116 = estados excepcionales
 
 ---
 
-## 📝 Mnemotecnia rápida
+## 🔢 Números clave para memorizar
+
+* 18 años = mayoría de edad
+* 72 horas = detención preventiva
+* 48 horas = segunda votación de investidura
+* 500.000 firmas = iniciativa popular
+* 30 días = decreto-ley y estado de excepción
+* 15 días = sanción real y estado de alarma
+* 2 meses = veto del Senado y repetición electoral
+* 4 años = mandato del Congreso y Senado
+* 300-400 diputados = Congreso
+
+---
+
+## 📝 Mnemotecnias rápidas
+
+* “10 dignidad, 12 mayoría, 15 vida”.
 
 * “14 igualdad, 18 informática, 23 oposición”.
+
+* “27 estudia, 31 impuestos, 43 salud”.
+
+* “45 naturaleza, 47 vivienda”.
+
+* “56 Rey, 62 funciones, 99 investidura”.
+
 * “72-500-30-15”:
 
   * 72 horas detención
   * 500.000 firmas
   * 30 días decreto-ley
   * 15 días Rey
-* “Senado = suelo = territorio” → Senado = representación territorial.
+
+* “Senado = suelo = territorio”.
+
+* “Absoluta primero, simple después” → investidura del Presidente.
